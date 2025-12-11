@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Houdini+Technical+Director;Crowd+Artist;FX+Artist;Unreal+Artist;Python+VEX;Always+learning+new+things"></a>
 </p>
-<p align="left"> 
+<p align="Right"> 
   <img src="https://komarev.com/ghpvc/?username=sarthakkrishak&label=Profile%20views&color=0e75b6&style=flat" alt="milinshaah" /> 
 </p>
 
@@ -19,11 +19,6 @@
   - 🤓: Always `learning new things`.
   - 🤔: I’m currently open for a new `job opportunity`.
   
-	## 💼 Open To
-  -  💼 I’m looking for `Crowd OR FX Artist` roles as `Senior OR Uper Lavel`.
-  -  🌎 I’m open to roles in Mumbai.
-  -  ⛑️ Remote / On-Site.
-
   ## 🛠️ Featured Projects
 	
   - | CG - FEATURE ANIMATION |
@@ -46,11 +41,17 @@
 	- [**TOXIC**](https://youtu.be/FNbuteqa7IE?si=eXRw8GOznAHkv6np) [2026]
 	- [**Animal Friends**](https://www.imdb.com/title/tt16911616/) [2026]
 	- [**RAMAYANA**](https://youtu.be/gzUu-FJ7s-Y?si=EHqGS-DfhliqB1hq) [2026]
-	  
-  ## 🌐 Connect With Me  
 
-  <p align="left">
-		<a href="https://www.linkedin.com/in/milinshahfx"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-		<a href="https://www.instagram.com/milinshaah_official/"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
-		<a href="https://www.youtube.com/@milinshahFX"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" height="40"/></a>
-	</p>
+## 💼 Open To
+
+-  💼 I’m looking for `Crowd OR FX Artist` roles as `Senior OR Uper Lavel`.
+-  🌎 I’m open to roles in Mumbai.
+-  ⛑️ Remote / On-Site.
+
+## 🌐 Connect With Me  
+
+<p align="left">
+	<a href="https://www.linkedin.com/in/milinshahfx"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+	<a href="https://www.instagram.com/milinshaah_official/"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
+	<a href="https://www.youtube.com/@milinshahFX"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" height="40"/></a>
+</p>
