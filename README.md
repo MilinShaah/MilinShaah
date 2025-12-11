@@ -9,6 +9,8 @@
   <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
   
   - 🏫: I am a `Crowd/FX TD` at [DNEG](https://www.dneg.com).
+  - ℹ️: My linkdin page : [milinshahfx](https://www.linkedin.com/in/milinshahfx)
+  - 🌎: Chackout my Lestest work : [MillionFx](https://milionfx.netlify.app)
   - ❤️: I love `FX`, `Proceduralism`, `Video Games`, `Films` and `Cinematics`.
   - 🧮: I’m currently learning `Python` and `VEX`.
   - 🤓: Always `learning new things`.
