@@ -20,7 +20,7 @@
   - 🤔: I’m currently open for a new `job opportunity`.
   
 	## 💼 Open To
-  -  💼 I’m looking for FX or Crowd Artist roles.
+  -  💼 I’m looking for `Crowd OR FX Artist` roles as `Senior OR Uper Lavel`.
   -  🌎 I’m open to roles in Mumbai.
   -  ⛑️ Remote / On-Site.
 
