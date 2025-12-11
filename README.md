@@ -11,6 +11,7 @@
   - 🏫: I am a `Crowd/FX TD` at [DNEG](https://www.dneg.com).
   - ℹ️: My linkdin page : [milinshahfx](https://www.linkedin.com/in/milinshahfx)
   - 🌎: Chackout my Lestest work : [MillionFx](https://milionfx.netlify.app)
+  - 🎬: IMDB Profile : [MilinShah](https://m.imdb.com/name/nm14571870)
   - ❤️: I love `FX`, `Proceduralism`, `Video Games`, `Films` and `Cinematics`.
   - 🧮: I’m currently learning `Python` and `VEX`.
   - 🤓: Always `learning new things`.
